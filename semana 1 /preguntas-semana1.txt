@@ -1,0 +1,44 @@
+Panel lateral
+24
+modulo_01
+Actividades Semana 1
+Tarea - Guía de ejercicios y aplicación práctica
+
+Tarea - Guía de ejercicios y aplicación práctica
+Requisitos de finalización
+Apertura: jueves, 16 de abril de 2026, 00:00
+Cierre: domingo, 24 de mayo de 2026, 23:59
+Semana 1
+Guía de ejercicios y aplicación práctica
+Objetivo de la semana
+Comprender la relación entre ciudadanía digital, uso responsable de la información, pensamiento algorítmico y organización técnica del trabajo, iniciando el uso de Git y GitHub para registrar y publicar la actividad realizada.
+
+Entrega final
+Al finalizar la semana, el estudiante debe tener un repositorio publicado en GitHub con las respuestas y archivos de la actividad, y debe compartir el enlace del repositorio en Moodle.
+
+Instrucciones generales
+Responde las preguntas de la actividad.
+Guarda todas las respuestas en archivos dentro de la carpeta de la semana.
+Publica la carpeta y los archivos en un repositorio GitHub.
+Comparte en Moodle el enlace del repositorio.
+Pregunta 1 — Selección múltiple
+¿Cuál de las siguientes opciones describe mejor qué es la ciudadanía digital?
+
+A. El uso de internet únicamente para entretenimiento
+ respuesta B. El uso responsable de la tecnología para informarse, participar y compartir información de manera ética
+C. El uso de redes sociales sin restricciones
+D. El uso exclusivo de software comercial
+Pregunta 2 — Selección múltiple
+¿Cuál es la razón principal por la que es importante verificar la información antes de compartirla en internet?
+
+A. Para que la publicación tenga más reacciones
+B. Para evitar consumir más datos móviles
+ Respuesta C. Para evitar difundir información falsa o engañosa
+D. Para que la publicación sea más extensa
+Pregunta 3 — Selección múltiple
+¿Cuál de las siguientes opciones define mejor un algoritmo?
+
+A. Una aplicación móvil
+ Respuesta B. Una lista de pasos ordenados para resolver un problema
+C. Una carpeta del computador
+D. Una red social
